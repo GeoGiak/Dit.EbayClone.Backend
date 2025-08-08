@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dit.EbayClone.Backend.WebApi", "Dit.EbayClone.Backend.WebApi\Dit.EbayClone.Backend.WebApi.csproj", "{E9910DD5-75FA-4B93-B479-B2A6B151E90D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dit.EbayClone.Backend.WebApi", "src\Dit.EbayClone.Backend.WebApi\Dit.EbayClone.Backend.WebApi.csproj", "{E9910DD5-75FA-4B93-B479-B2A6B151E90D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dit.EbayClone.Backend.Application", "Dit.EbayClone.Backend.Application\Dit.EbayClone.Backend.Application.csproj", "{3616741B-2926-4BE9-907B-E6D4D766254C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dit.EbayClone.Backend.Application", "src\Dit.EbayClone.Backend.Application\Dit.EbayClone.Backend.Application.csproj", "{3616741B-2926-4BE9-907B-E6D4D766254C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dit.EbayClone.Backend.Domain", "Dit.EbayClone.Backend.Domain\Dit.EbayClone.Backend.Domain.csproj", "{AAEE9E51-619F-4A5B-A306-9BB238D46912}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dit.EbayClone.Backend.Domain", "src\Dit.EbayClone.Backend.Domain\Dit.EbayClone.Backend.Domain.csproj", "{AAEE9E51-619F-4A5B-A306-9BB238D46912}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dit.EbayClone.Backend.Core", "Dit.EbayClone.Backend.Core\Dit.EbayClone.Backend.Core.csproj", "{49EE90F1-A582-4E30-8FDE-CD5E7021CFAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dit.EbayClone.Backend.Core", "src\Dit.EbayClone.Backend.Core\Dit.EbayClone.Backend.Core.csproj", "{49EE90F1-A582-4E30-8FDE-CD5E7021CFAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
