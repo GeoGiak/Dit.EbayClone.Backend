@@ -14,4 +14,9 @@
         </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Dit.EbayClone.Backend.Application\Dit.EbayClone.Backend.Application.csproj" />
+      <ProjectReference Include="..\Dit.EbayClone.Backend.Core\Dit.EbayClone.Backend.Core.csproj" />
+    </ItemGroup>
+
 </Project>

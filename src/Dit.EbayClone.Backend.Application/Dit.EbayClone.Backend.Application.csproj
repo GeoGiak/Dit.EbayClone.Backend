@@ -6,4 +6,14 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Dit.EbayClone.Backend.Core\Dit.EbayClone.Backend.Core.csproj" />
+      <ProjectReference Include="..\Dit.EbayClone.Backend.Domain\Dit.EbayClone.Backend.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.8" />
+    </ItemGroup>
+
 </Project>
